@@ -1,0 +1,16 @@
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\core\BasePage.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\core\BaseTest.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\core\DriverFactory.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\core\Propriedades.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\pages\ContasPage.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\pages\HomePage.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\pages\LoginPage.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\pages\MenuPage.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\pages\MovimentacaoPage.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\pages\ResumoPage.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\suites\SuiteGeral.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\tests\ContaTest.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\tests\MovimentacaoTest.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\tests\RemoverMovimentacaoTest.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\tests\ResumoTest.java
+C:\Users\João\eclipse-workspace\ProjetoCurso\src\main\java\br\ce\joaobarp\tests\SaldoTest.java
